@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dhagle-baazi/static/css/main.711391f2.chunk.css",
+    "main.js": "/dhagle-baazi/static/js/main.870c947d.chunk.js",
+    "main.js.map": "/dhagle-baazi/static/js/main.870c947d.chunk.js.map",
+    "runtime-main.js": "/dhagle-baazi/static/js/runtime-main.711126ec.js",
+    "runtime-main.js.map": "/dhagle-baazi/static/js/runtime-main.711126ec.js.map",
+    "static/js/2.fe9b8f5f.chunk.js": "/dhagle-baazi/static/js/2.fe9b8f5f.chunk.js",
+    "static/js/2.fe9b8f5f.chunk.js.map": "/dhagle-baazi/static/js/2.fe9b8f5f.chunk.js.map",
+    "index.html": "/dhagle-baazi/index.html",
+    "precache-manifest.9d70a115f0d9e078ee4149b494a25b96.js": "/dhagle-baazi/precache-manifest.9d70a115f0d9e078ee4149b494a25b96.js",
+    "service-worker.js": "/dhagle-baazi/service-worker.js",
+    "static/css/main.711391f2.chunk.css.map": "/dhagle-baazi/static/css/main.711391f2.chunk.css.map",
+    "static/js/2.fe9b8f5f.chunk.js.LICENSE": "/dhagle-baazi/static/js/2.fe9b8f5f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.711126ec.js",
+    "static/js/2.fe9b8f5f.chunk.js",
+    "static/css/main.711391f2.chunk.css",
+    "static/js/main.870c947d.chunk.js"
+  ]
+}
