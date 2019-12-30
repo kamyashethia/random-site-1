@@ -1,15 +1,27 @@
 .App {
   text-align: center;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #277714;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+  align-content: stretch;
 }
 
+.card {
+  color:black;
+  border-style: solid;
+  border-width: 3px;
+  height: 20vh;
+  width: 15vh;
+  margin:auto;
+}
+
+.frontCard {
+  background-color: white;
+}
+
+.backCard {
+  background-image: linear-gradient(#82acb2, #eddb17);
+}

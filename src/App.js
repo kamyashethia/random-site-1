@@ -1,21 +1,29 @@
 import React from 'react';
 import './App.css';
+import Card from './Card.js';
+import {Suits, Numbers} from './constants.js';
 
 
-function Card(props) {
-  return <div>Hello, {props.value}</div>;
-}
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-         <Card
-          value="Sample Card"
-         >
+           <Card
+            value="Back"
+            isFacingFront={false}
+           />
 
-	       </Card>
-      </header>
+           <Card
+            value="Sample Card"
+            isFacingFront={true}
+           />
+
+           <Card
+            value="Back"
+            isFacingFront={false}
+           />
     </div>
   );
 }
