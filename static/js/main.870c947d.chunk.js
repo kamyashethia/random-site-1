@@ -1,2 +1,0 @@
-(this["webpackJsonpdhagla-baazi"]=this["webpackJsonpdhagla-baazi"]||[]).push([[0],[,,,function(e,a,n){e.exports=n(10)},,,,,function(e,a,n){},function(e,a,n){},function(e,a,n){"use strict";n.r(a);var t=n(0),r=n.n(t),l=n(2),c=n.n(l);n(8),n(9);var o=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},r.a.createElement("p",null,"Hello world")))};c.a.render(r.a.createElement(o,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.870c947d.chunk.js.map

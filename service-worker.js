@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dhagle-baazi/precache-manifest.9d70a115f0d9e078ee4149b494a25b96.js"
+  "/dhagle-baazi/precache-manifest.2a0d31f8c21e75aa0c7f5a7c43fd9295.js"
 );
 
 self.addEventListener('message', (event) => {
